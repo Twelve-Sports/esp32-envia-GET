@@ -4,6 +4,8 @@ Este código serve para enviar requisições HTTP GET (apenas rota + parâmetros
 
 ## Dependências
 
+### 0. Utilizando ArduinoIDE (https://www.arduino.cc/en/software/)
+
 ### 1. São necessários os pacotes de gerenciamento de placas da Heltec! Adicione esses links (como estam) às preferências da ArduinoIDE, na parte de "Gerenciadores de placa Adicionais"
 
 ```
